@@ -1,0 +1,11 @@
+1- Start
+2- Enter the width(ft)
+Enter the Length (ft)
+3- Area (sq ft) = 
+Length 
+Width (ft
+4- double tilesNeeded = 
+Area / 0.25
+5- Display floor area 
+6- Display tiles needed
+7- Stop
