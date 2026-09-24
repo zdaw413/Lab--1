@@ -1,0 +1,7 @@
+Step1= start
+Step=  Enter the frast / second
+Step3= 
+Product=firstvalue*second
+value
+Step 4=Display product 
+Step5= stop
