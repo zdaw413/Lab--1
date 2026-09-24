@@ -1,0 +1,7 @@
+1- Start
+2- Enter sales person base salary 
+3- Enter total sales 
+4- Total pay= sales person base salary 
++total sales*commission rate
+5- Display total pay 
+6- Stop
