@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Taske2.cpp">
+    <ClCompile Include="Task3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text Algorithm.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Pictures\Screenshots\flow chart .png.png">
+    <Image Include="..\..\..\..\Pictures\Screenshots\fiow chart.png.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{675a7ca5-1c3f-4d06-94e4-25e96a5f5f5f}</ProjectGuid>
-    <RootNamespace>Taske2</RootNamespace>
+    <ProjectGuid>{19f237f5-af0c-4375-9c0f-207fe62934a9}</ProjectGuid>
+    <RootNamespace>Task3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,13 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Taske2.cpp" />
+    <ClCompile Include="Task3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text Algorithm.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\Pictures\Screenshots\flow chart .png.png" />
+    <Image Include="..\..\..\..\Pictures\Screenshots\fiow chart.png.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
